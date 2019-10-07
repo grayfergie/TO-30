@@ -41,8 +41,8 @@
 
    * 5 quarts
    * SAE 30 (original recommendation)
-   * 15W40 (Do not use in extreme cold, less than 5°F/-15°C)
-   * 10W40 (Better in extreme cold)
+   * SAE 15W40 (Do not use in extreme cold, less than 5°F/-15°C)
+   * SAE 10W40 (Better in extreme cold)
 
 
 2. Distributor
@@ -72,6 +72,11 @@
 
 ## Every 750 Hours (Spring and Fall)
 1. Change Transmission Oil
+
+   * SAE 90wt GL1 (original recommendation)
+   * SAE 15W40
+   * Do not use GL-3 or GL-5.  They will destroy yellow metals in the system. 
+
 2. Check Steering Housing Oil Level
 3. Master Control Spring
 
