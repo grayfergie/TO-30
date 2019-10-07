@@ -39,8 +39,11 @@
 ## Every 100 Hours (Semi-Monthly)
 1. Change Engine Oil
 
-   * SAE 30 (Originally) 
    * 5 quarts
+   * SAE 30 (original recommendation)
+   * 15W40 (Do not use in extreme cold, less than 5°F/-15°C)
+   * 10W40 (Better in extreme cold)
+
 
 2. Distributor
 
@@ -56,6 +59,11 @@
    * Inspect, clean and set gap to 0.025
 
 2. Change Oil Filter
+
+   * Add an addational 1 quart of oil (total 6 quarts) when chaning the oil filter during an oil change.
+   * Cartridge Type - NAPA 1010, Wix 51010, FRAM C3P, Tisco/CountyLine APN6731B
+   * Canister / Spin On Type - NAPA 1051, MF 1069954M91, Wix 51051, Fleetguard LF3308
+   
 3. Tighten Bearing Retainer Nuts (six nuts on end of rear axel housings)
 4. Remove and clean Cylinder Head Cover Breather Pipe.
 5. Clean Carburetor
