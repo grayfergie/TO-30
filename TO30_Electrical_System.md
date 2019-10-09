@@ -5,6 +5,25 @@ The electrical system on the Fergurson tractor is composed a battery, generator,
 
 ## Battery
 
+The battery used in the TO-20, TO-30, and early TO-35<sup>Note</sup> tractors is a 6-volt (3 Cell), 8O ampre-hour lead-acid battery.  The battery is positively grounded to the tractar frame. The battery supplies the necessary electrical en-ergy to the starting motor and ignition system for starting purposes and also suppliments the generator charging rate when the load demands placed upon it are greater than the generatar output.
+
+The correct size battery is a BCI Group 1 (Maximum Overall Dimensions Length 9 1/8" x Width	7 1/8" x Height 9 3/8")
+
+| Charge % | Voltage |
+|:--------:|:-------:|
+|   100%   |   6.32  |
+|   75%    |   6.21	 |
+|   50%    |   6.12  |
+|   25%    |   6.02  |   	
+|Discharged|   5.93  |
+ 
+Note: TO-35s switched to 12V at SN 161250 (except for 300 Specials (163533-163832) that had 6V systems)
+
+#### Battery Part Numbers
+NAPA BAT 7244
+Duracell SLI1
+Traveller Heavy-Duty Battery, 1-6V
+
 ## Ignition / Light Switch
 
 The switch used on the TO-30 is a combanation light and ignition switch.  The switch has three terminal and four postions.  The postions are off, ignition, ignition and lights, and lights. The terminals on the switched are marked "B" for battery, "I" for ignition, and "L" for lights.
