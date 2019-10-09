@@ -36,6 +36,10 @@ The TO-30 tractor is equipped with an ammeter in place of the warning light util
 
 The ammeter is connected in series with the charging circuit.  All current flowing to and from the battery passes through the ammeter.  The ammeter is placed between the “hot” side of the starter switch and the battery ”BAT” terminal of the voltage regulator.   
 
+#### Ammeter Part Numbers
+Ford A0NN10670A (30-0-30)
+
+Massey Ferguson 515521M91 (30-0-30)
 
 ## Starting Motor
 
