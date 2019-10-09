@@ -37,8 +37,6 @@ Massey Ferguson 180681M93, 9900-9050
 
 Db Electrical SSW2850
 
-## Generator
-
 ## Voltage Regulator
 
 The same voltage regulator is used in TO-20, TO-30, TO-35 tractors. Designed for 6 volt A type circuits in positive ground systems with 2 brush generators with outputs of 7 to 9 output amps. The voltage regulator has 4 terminals, 3 on one side ("L" load/lights, "BAT" battery, "F" field) ) and 1 on the opposite ("GEN" generator).
@@ -61,8 +59,6 @@ The ammeter is connected in series with the charging circuit.  All current flowi
 Ford A0NN10670A (30-0-30)
 
 Massey Ferguson 515521M91 (30-0-30)
-
-## Starting Motor
 
 ## Starting Switch
 
@@ -91,7 +87,25 @@ Caution: Mounting the switch too far for- ward will tend to cause the switch to 
 
 Massey Ferguson 181679M1, 181679M91, 181679V1, A-181679M1
 
+## Starting Motor
+
+
+## Generator
+
 ## Coil
+
+A Delco-Remy coil is used on TO tractors.  The coil is a conventional 6-volt type, oil-filled and hermetically sealed to prevent the entrance of moisture. The oil permits a more rapid dissipation of heat and provides greater insulation. The sealing of the coil prevents moisture being drawn into the coil during the cooling off period. This eliminates one of the greatest causes of coil failure, the damage to the insulation by moisture.
+
+The purpose of the ignition coil is to take the current from the battery or generator, and step up the voltage to a point required to fire the spark plugs. This secondary voltage sometimes goes as high as 20,000 volts.
+
+The essential parts of the ignition coil are the core, primary winding, secondary winding and the case. 
+
+The primary and secondary windings are assembled on the core and mounted 'in the case. The case is provided with two low- tension terminals and one high-tension terminal. The secondary winding is ground through the primary so the coil case does not require grounding to the engine. The high-tension terminal is protected by a Bakelite insulator. 
+
+In the low-tension circuit, the negative terminal of the coil is connected to the ignition switch and the positive terminal is connected to the distributor. The high-tension circuit has only one wire which is connected to the center of the distributor cap. 
+
+The ignition coil requires little attention other than keeping the terminals tight and the exterior clean. If the coil is defective, it must be replaced since it cannot be repaired. Before a coil is discarded, it should be care- fully checked on a good tester to determine that it is actually defective. 
+
 
 ## Distributor
 
