@@ -21,7 +21,9 @@ Note: TO-35s switched to 12V at SN 161250 (except for 300 Specials (163533-16383
 
 #### Battery Part Numbers
 NAPA BAT 7244
+
 Duracell SLI1
+
 Traveller Heavy-Duty Battery, 1-6V
 
 ## Ignition / Light Switch
