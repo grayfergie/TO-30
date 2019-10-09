@@ -66,7 +66,30 @@ Massey Ferguson 515521M91 (30-0-30)
 
 ## Starting Switch
 
-The starter switch is mountned on the transmission housing just foward of the steering column.  It is held in place with four cap screws.
+The starter switch is mounted on the transmission housing just forward of the steering column, and is held in place by four cap screws. The contact points are completely sealed against the entrance of dust and moisture. The switch is actuated by a rocker on the underside of the switch which in turn is actuated by the connecting link from the forward end of the reverse shifter rail. Contact is made by moving the gear shih lever in the direction opposite to the reverse position.
+
+To remove the starter switch:
+
+1. Disconnect the three wires from the switch and remove four bolts holding the switch to the transmission housing.
+2. Raise and tilt the switch forward. Secure the connecting link with a piece of wire to prevent it from dropping down.
+3. Remove the cotter pin and clevis pin that attaches the rocker to the switch bracket.
+4. Remove the two cap screws holding the switch to the switch bracket.
+
+The starter switch is serviced as a unit and defective switches should be replaced rather than attempting to repair the old switch. 
+
+Installation of the starter switch:
+When replacing the switch, assemble the switch to the switch bracket, attach the rocker to the connecting link and secure the clevis pin with a cotter pin. Remove the wire attached to the link and place the switch in position. Replace the retaining cap screws but leave them loose and adjust the switch as follows:
+
+1. Move the switch in the slotted holes as far toward the rear as possible and tighten a couple of cap screws.
+2. Test by shifting the gear shift lever into start position. If the switch fails to make contact or makes poor contact, loosen the bolts and move the switch forward slightly and check the contact in the new position.
+3. Repeat the above until the switch makes a good full contact.
+
+Caution: Mounting the switch too far for- ward will tend to cause the switch to jam and stick.
+
+
+#### Starting Switch Part Numbers
+
+Massey Ferguson 181679M1, 181679M91, 181679V1, A-181679M1
 
 ## Coil
 
