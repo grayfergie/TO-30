@@ -32,6 +32,10 @@ Massey Ferguson	180142M92, 1901587M91
 International Harvester 376121R91, 37612R91
 
 ## Ammeter
+The TO-30 tractor is equipped with an ammeter in place of the warning light utilized in the TO-20.  The ammeter is intended to let the operator know if the battery is charging or discharging.  
+
+The ammeter is connected in series with the charging circuit.  All current flowing to and from the battery passes through the ammeter.  The ammeter is placed between the “hot” side of the starter switch and the battery ”BAT” terminal of the voltage regulator.   
+
 
 ## Starting Motor
 
